@@ -1,0 +1,1417 @@
+{
+    "Informes": {
+        "Informe": {
+            "fechaConsulta": "2021-05-15T09:46:28",
+            "respuesta": "13",
+            "codSeguridad": "QJN60z9",
+            "tipoIdDigitado": "1",
+            "identificacionDigitada": "21228392",
+            "apellidoDigitado": "PORRAS",
+            "esIndependiente": "true",
+            "NaturalNacional": {
+                "nombres": "GLADYS YOLANDA",
+                "primerApellido": "PORRAS",
+                "segundoApellido": "",
+                "nombreCompleto": "PORRAS  GLADYS YOLANDA",
+                "validada": "true",
+                "rut": "true",
+                "genero": "3",
+                "Identificacion": {
+                    "estado": "00",
+                    "fechaExpedicion": "1974-01-21",
+                    "ciudad": "VILLAVICENCIO",
+                    "departamento": "META",
+                    "genero": "3",
+                    "numero": "00021228392"
+                },
+                "Edad": {
+                    "min": "66"
+                },
+                "InfoDemografica": null
+            },
+            "Score": {
+                "tipo": "67",
+                "puntaje": "745.0",
+                "fecha": "2021-05-15",
+                "poblacion": "65",
+                "Razon": [
+                    {
+                        "codigo": "00099"
+                    },
+                    {
+                        "codigo": "00000"
+                    }
+                ]
+            },
+            "CuentaAhorro": [
+                {
+                    "bloqueada": "false",
+                    "entidad": "BCO AGRARIO",
+                    "numero": "650067789",
+                    "fechaApertura": "2020-06-02",
+                    "calificacion": "1",
+                    "situacionTitular": "0",
+                    "oficina": "TRINIDAD",
+                    "ciudad": "TRINIDAD",
+                    "codigoDaneCiudad": "00000000",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800037800",
+                    "sector": "1",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "clase": "0"
+                    },
+                    "Valores": {
+                        "Valor": {
+                            "moneda": "1",
+                            "fecha": "2020-12-31",
+                            "calificacion": "1"
+                        }
+                    },
+                    "Estado": {
+                        "codigo": "01",
+                        "fecha": "2020-12-31"
+                    },
+                    "Llave": "10002122839251002401650067789000000000"
+                },
+                {
+                    "bloqueada": "false",
+                    "entidad": "BCO AGRARIO",
+                    "numero": "650015772",
+                    "fechaApertura": "1993-12-10",
+                    "calificacion": "1",
+                    "situacionTitular": "0",
+                    "oficina": "TRINIDAD",
+                    "ciudad": "TRINIDAD",
+                    "codigoDaneCiudad": "00000000",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800037800",
+                    "sector": "1",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "clase": "2"
+                    },
+                    "Valores": {
+                        "Valor": {
+                            "moneda": "1",
+                            "fecha": "2020-12-31",
+                            "calificacion": "1"
+                        }
+                    },
+                    "Estado": {
+                        "codigo": "09",
+                        "fecha": "2020-12-31"
+                    },
+                    "Llave": "10002122839251002401650015772000000000"
+                },
+                {
+                    "bloqueada": "false",
+                    "entidad": "BCO AGRARIO",
+                    "numero": "654001596",
+                    "fechaApertura": "2004-12-31",
+                    "situacionTitular": "0",
+                    "oficina": "TRINIDAD",
+                    "ciudad": "TRINID",
+                    "codigoDaneCiudad": "00000000",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800037800",
+                    "sector": "1",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "clase": "0"
+                    },
+                    "Valores": null,
+                    "Estado": {
+                        "codigo": "05",
+                        "fecha": "2007-12-31"
+                    },
+                    "Llave": "10002122839251002401654001596000000000"
+                }
+            ],
+            "CuentaCorriente": {
+                "bloqueada": "false",
+                "entidad": "BCO AGRARIO",
+                "numero": "650011884",
+                "fechaApertura": "1993-03-31",
+                "calificacion": "0",
+                "situacionTitular": "0",
+                "oficina": "TRINIDAD",
+                "ciudad": "TRINID",
+                "codigoDaneCiudad": "00000000",
+                "codSuscriptor": "010024",
+                "tipoIdentificacion": "2",
+                "identificacion": "00800037800",
+                "sector": "1",
+                "independiente": "N",
+                "Caracteristicas": {
+                    "clase": "0"
+                },
+                "Valores": null,
+                "Estado": {
+                    "codigo": "01",
+                    "fecha": "2002-08-31"
+                },
+                "Sobregiro": {
+                    "valor": "0.0",
+                    "dias": "0",
+                    "fecha": "2002-08-31"
+                },
+                "Llave": "10002122839201002401650011884000000000"
+            },
+            "CuentaCartera": [
+                {
+                    "bloqueada": "false",
+                    "entidad": "BEL STAR S A",
+                    "numero": "316069000",
+                    "fechaApertura": "2013-08-31",
+                    "fechaVencimiento": "2013-09-20",
+                    "comportamiento": "----------------------------------------------- ",
+                    "formaPago": "1",
+                    "probabilidadIncumplimiento": "0.0",
+                    "situacionTitular": "0",
+                    "oficina": "NO INFORMO",
+                    "ciudad": "",
+                    "codigoDaneCiudad": "00000000",
+                    "codSuscriptor": "390039",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800018359",
+                    "sector": "3",
+                    "calificacionHD": "true",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "tipoCuenta": "LAB",
+                        "tipoObligacion": "1",
+                        "tipoContrato": "2",
+                        "ejecucionContrato": "1",
+                        "mesesPermanencia": "0",
+                        "calidadDeudor": "00",
+                        "garantia": "1"
+                    },
+                    "Valores": null,
+                    "Estados": {
+                        "EstadoCuenta": {
+                            "codigo": "03",
+                            "fecha": "2013-12-31"
+                        },
+                        "EstadoOrigen": {
+                            "codigo": "0",
+                            "fecha": "2013-08-31"
+                        },
+                        "EstadoPago": {
+                            "codigo": "08",
+                            "meses": "48",
+                            "fecha": "2013-12-31"
+                        }
+                    },
+                    "Llave": "10002122839239003939316069000000000000"
+                },
+                {
+                    "bloqueada": "false",
+                    "entidad": "BEL STAR S A",
+                    "numero": "834186500",
+                    "fechaApertura": "2013-10-12",
+                    "fechaVencimiento": "2013-11-02",
+                    "comportamiento": "----------------------------------------------- ",
+                    "formaPago": "1",
+                    "probabilidadIncumplimiento": "0.0",
+                    "situacionTitular": "0",
+                    "oficina": "NO INFORMO",
+                    "ciudad": "",
+                    "codigoDaneCiudad": "00000000",
+                    "codSuscriptor": "390039",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800018359",
+                    "sector": "3",
+                    "calificacionHD": "true",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "tipoCuenta": "LAB",
+                        "tipoObligacion": "1",
+                        "tipoContrato": "2",
+                        "ejecucionContrato": "1",
+                        "mesesPermanencia": "0",
+                        "calidadDeudor": "00",
+                        "garantia": "1"
+                    },
+                    "Valores": null,
+                    "Estados": {
+                        "EstadoCuenta": {
+                            "codigo": "03",
+                            "fecha": "2013-12-31"
+                        },
+                        "EstadoOrigen": {
+                            "codigo": "0",
+                            "fecha": "2013-10-12"
+                        },
+                        "EstadoPago": {
+                            "codigo": "08",
+                            "meses": "48",
+                            "fecha": "2013-12-31"
+                        }
+                    },
+                    "Llave": "10002122839239003939834186500000000000"
+                },
+                {
+                    "bloqueada": "false",
+                    "entidad": "BEL STAR S A",
+                    "numero": "902259200",
+                    "fechaApertura": "2013-12-14",
+                    "fechaVencimiento": "2014-01-04",
+                    "comportamiento": "----------------------------------------------- ",
+                    "formaPago": "1",
+                    "probabilidadIncumplimiento": "0.0",
+                    "situacionTitular": "0",
+                    "oficina": "NO INFORMO",
+                    "ciudad": "",
+                    "codigoDaneCiudad": "00000000",
+                    "codSuscriptor": "390039",
+                    "tipoIdentificacion": "2",
+                    "identificacion": "00800018359",
+                    "sector": "3",
+                    "calificacionHD": "true",
+                    "independiente": "N",
+                    "Caracteristicas": {
+                        "tipoCuenta": "LAB",
+                        "tipoObligacion": "1",
+                        "tipoContrato": "2",
+                        "ejecucionContrato": "1",
+                        "mesesPermanencia": "0",
+                        "calidadDeudor": "00",
+                        "garantia": "1"
+                    },
+                    "Valores": null,
+                    "Estados": {
+                        "EstadoCuenta": {
+                            "codigo": "03",
+                            "fecha": "2013-12-31"
+                        },
+                        "EstadoOrigen": {
+                            "codigo": "0",
+                            "fecha": "2013-12-14"
+                        },
+                        "EstadoPago": {
+                            "codigo": "08",
+                            "meses": "48",
+                            "fecha": "2013-12-31"
+                        }
+                    },
+                    "Llave": "10002122839239003939902259200000000000"
+                }
+            ],
+            "Consulta": [
+                {
+                    "fecha": "2021-05-15",
+                    "tipoCuenta": "COC",
+                    "entidad": "COOPECHANCE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00891502277",
+                    "sector": "3",
+                    "Llave": "10002122839266"
+                },
+                {
+                    "fecha": "2021-05-14",
+                    "tipoCuenta": "SFI",
+                    "entidad": "LLEVALOYA SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901267124",
+                    "sector": "3",
+                    "Llave": "10002122839267"
+                },
+                {
+                    "fecha": "2021-05-14",
+                    "tipoCuenta": "CAU",
+                    "entidad": "PREMIER        CREDIT SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900491651",
+                    "sector": "3",
+                    "Llave": "10002122839265"
+                },
+                {
+                    "fecha": "2021-05-13",
+                    "tipoCuenta": "COC",
+                    "entidad": "CORPORACION    INTERACTUAR",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00890984843",
+                    "sector": "3",
+                    "Llave": "10002122839268"
+                },
+                {
+                    "fecha": "2021-05-12",
+                    "tipoCuenta": "COC",
+                    "entidad": "KUANTO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900910417",
+                    "sector": "3",
+                    "Llave": "10002122839262"
+                },
+                {
+                    "fecha": "2021-05-05",
+                    "tipoCuenta": "SFI",
+                    "entidad": "CONSTROYA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901366456",
+                    "sector": "3",
+                    "Llave": "10002122839263"
+                },
+                {
+                    "fecha": "2021-04-30",
+                    "tipoCuenta": "SFI",
+                    "entidad": "CONSTROYA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901366456",
+                    "sector": "3",
+                    "Llave": "10002122839251"
+                },
+                {
+                    "fecha": "2021-04-30",
+                    "tipoCuenta": "COC",
+                    "entidad": "COOPECHANCE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00891502277",
+                    "sector": "3",
+                    "Llave": "10002122839249"
+                },
+                {
+                    "fecha": "2021-04-29",
+                    "tipoCuenta": "CAU",
+                    "entidad": "IMPORTADORA    CELESTE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00800004800",
+                    "sector": "3",
+                    "Llave": "10002122839260"
+                },
+                {
+                    "fecha": "2021-04-28",
+                    "tipoCuenta": "COC",
+                    "entidad": "KUANTO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900910417",
+                    "sector": "3",
+                    "Llave": "10002122839254"
+                },
+                {
+                    "fecha": "2021-04-28",
+                    "tipoCuenta": "CCF",
+                    "entidad": "OPPORTUNITY    COL",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "01",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900515759",
+                    "sector": "3",
+                    "Llave": "10002122839261"
+                },
+                {
+                    "fecha": "2021-04-23",
+                    "tipoCuenta": "CAU",
+                    "entidad": "CREDIUNO       S A S",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901104183",
+                    "sector": "3",
+                    "Llave": "10002122839259"
+                },
+                {
+                    "fecha": "2021-04-23",
+                    "tipoCuenta": "GRM",
+                    "entidad": "OXL COLOMBIA   SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901088710",
+                    "sector": "3",
+                    "Llave": "10002122839248"
+                },
+                {
+                    "fecha": "2021-04-13",
+                    "tipoCuenta": "CDB",
+                    "entidad": "BVC",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00830085426",
+                    "sector": "3",
+                    "Llave": "10002122839257"
+                },
+                {
+                    "fecha": "2021-04-12",
+                    "tipoCuenta": "TDC",
+                    "entidad": "BBVA           COLOMBIA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00860003020",
+                    "sector": "1",
+                    "Llave": "10002122839256"
+                },
+                {
+                    "fecha": "2021-04-08",
+                    "tipoCuenta": "CAU",
+                    "entidad": "PREMIER        CREDIT SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "01",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900491651",
+                    "sector": "3",
+                    "Llave": "10002122839253"
+                },
+                {
+                    "fecha": "2021-04-06",
+                    "tipoCuenta": "SFI",
+                    "entidad": "CREZCAMOS S A",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900211263",
+                    "sector": "3",
+                    "Llave": "10002122839250"
+                },
+                {
+                    "fecha": "2021-04-05",
+                    "tipoCuenta": "CCF",
+                    "entidad": "FINAMERICA     C.F.C.",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00860025971",
+                    "sector": "1",
+                    "Llave": "10002122839247"
+                },
+                {
+                    "fecha": "2021-03-29",
+                    "tipoCuenta": "TDC",
+                    "entidad": "BBVA           COLOMBIA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00860003020",
+                    "sector": "1",
+                    "Llave": "10002122839244"
+                },
+                {
+                    "fecha": "2021-03-27",
+                    "tipoCuenta": "COC",
+                    "entidad": "KUANTO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900910417",
+                    "sector": "3",
+                    "Llave": "10002122839236"
+                },
+                {
+                    "fecha": "2021-03-19",
+                    "tipoCuenta": "COC",
+                    "entidad": "COOPECHANCE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00891502277",
+                    "sector": "3",
+                    "Llave": "10002122839246"
+                },
+                {
+                    "fecha": "2021-03-19",
+                    "tipoCuenta": "COC",
+                    "entidad": "CORPORACION    INTERACTUAR",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00890984843",
+                    "sector": "3",
+                    "Llave": "10002122839245"
+                },
+                {
+                    "fecha": "2021-03-15",
+                    "tipoCuenta": "GRM",
+                    "entidad": "OXL COLOMBIA   SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901088710",
+                    "sector": "3",
+                    "Llave": "10002122839239"
+                },
+                {
+                    "fecha": "2021-03-12",
+                    "tipoCuenta": "CAU",
+                    "entidad": "CREDIUNO       S A S",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901104183",
+                    "sector": "3",
+                    "Llave": "10002122839243"
+                },
+                {
+                    "fecha": "2021-03-11",
+                    "tipoCuenta": "CAC",
+                    "entidad": "COOP BELEN",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00890909246",
+                    "sector": "2",
+                    "Llave": "10002122839238"
+                },
+                {
+                    "fecha": "2021-03-09",
+                    "tipoCuenta": "CCB",
+                    "entidad": "BCO COLPATRIA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00860034594",
+                    "sector": "1",
+                    "Llave": "10002122839242"
+                },
+                {
+                    "fecha": "2021-03-04",
+                    "tipoCuenta": "CBR",
+                    "entidad": "BANCOMPARTIR   ROTATIVO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "01",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00860025971",
+                    "sector": "1",
+                    "Llave": "10002122839241"
+                },
+                {
+                    "fecha": "2021-03-01",
+                    "tipoCuenta": "CMZ",
+                    "entidad": "AGRICAPITAL    SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900962538",
+                    "sector": "3",
+                    "Llave": "10002122839235"
+                },
+                {
+                    "fecha": "2021-02-26",
+                    "tipoCuenta": "GRM",
+                    "entidad": "OXL COLOMBIA   SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901088710",
+                    "sector": "3",
+                    "Llave": "10002122839226"
+                },
+                {
+                    "fecha": "2021-02-25",
+                    "tipoCuenta": "COC",
+                    "entidad": "KUANTO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900910417",
+                    "sector": "3",
+                    "Llave": "10002122839215"
+                },
+                {
+                    "fecha": "2021-02-23",
+                    "tipoCuenta": "COC",
+                    "entidad": "CORPORACION    INTERACTUAR",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00890984843",
+                    "sector": "3",
+                    "Llave": "10002122839233"
+                },
+                {
+                    "fecha": "2021-02-23",
+                    "tipoCuenta": "CAU",
+                    "entidad": "IMPORTADORA    CELESTE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00800004800",
+                    "sector": "3",
+                    "Llave": "10002122839228"
+                },
+                {
+                    "fecha": "2021-02-22",
+                    "tipoCuenta": "CMZ",
+                    "entidad": "AGRICAPITAL    SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900962538",
+                    "sector": "3",
+                    "Llave": "10002122839214"
+                },
+                {
+                    "fecha": "2021-02-22",
+                    "tipoCuenta": "COC",
+                    "entidad": "Sempli",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900995954",
+                    "sector": "3",
+                    "Llave": "10002122839231"
+                },
+                {
+                    "fecha": "2021-02-18",
+                    "tipoCuenta": "TDC",
+                    "entidad": "BANCO          PICHINCHA SA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00890200756",
+                    "sector": "1",
+                    "Llave": "10002122839232"
+                },
+                {
+                    "fecha": "2021-02-16",
+                    "tipoCuenta": "SFI",
+                    "entidad": "CONSTROYA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901366456",
+                    "sector": "3",
+                    "Llave": "10002122839230"
+                },
+                {
+                    "fecha": "2021-02-09",
+                    "tipoCuenta": "CAU",
+                    "entidad": "PREMIER        CREDIT SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900491651",
+                    "sector": "3",
+                    "Llave": "10002122839216"
+                },
+                {
+                    "fecha": "2021-02-09",
+                    "tipoCuenta": "TDC",
+                    "entidad": "PROSPERANDO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "01",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00890700605",
+                    "sector": "2",
+                    "Llave": "10002122839229"
+                },
+                {
+                    "fecha": "2021-02-05",
+                    "tipoCuenta": "SFI",
+                    "entidad": "H DOS O INVER  SIONES SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901064727",
+                    "sector": "3",
+                    "Llave": "10002122839227"
+                },
+                {
+                    "fecha": "2021-02-05",
+                    "tipoCuenta": "CCF",
+                    "entidad": "TU CUOTA SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900920945",
+                    "sector": "3",
+                    "Llave": "10002122839218"
+                },
+                {
+                    "fecha": "2021-02-03",
+                    "tipoCuenta": "CAS",
+                    "entidad": "EL CIUDADANO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "07",
+                    "nitSuscriptor": "00900422614",
+                    "sector": "3",
+                    "Llave": "10002122839219"
+                },
+                {
+                    "fecha": "2021-02-03",
+                    "tipoCuenta": "COC",
+                    "entidad": "EPSA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00800249860",
+                    "sector": "3",
+                    "Llave": "10002122839225"
+                },
+                {
+                    "fecha": "2021-01-29",
+                    "tipoCuenta": "CMZ",
+                    "entidad": "AGRICAPITAL    SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900962538",
+                    "sector": "3",
+                    "Llave": "10002122839206"
+                },
+                {
+                    "fecha": "2021-01-29",
+                    "tipoCuenta": "COC",
+                    "entidad": "JL Y RB SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900738718",
+                    "sector": "3",
+                    "Llave": "10002122839213"
+                },
+                {
+                    "fecha": "2021-01-29",
+                    "tipoCuenta": "CAU",
+                    "entidad": "PREMIER        CREDIT SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "02",
+                    "nitSuscriptor": "00900491651",
+                    "sector": "3",
+                    "Llave": "10002122839211"
+                },
+                {
+                    "fecha": "2021-01-28",
+                    "tipoCuenta": "CAU",
+                    "entidad": "IMPORTADORA    CELESTE",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00800004800",
+                    "sector": "3",
+                    "Llave": "10002122839212"
+                },
+                {
+                    "fecha": "2021-01-27",
+                    "tipoCuenta": "COC",
+                    "entidad": "KUANTO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900910417",
+                    "sector": "3",
+                    "Llave": "10002122839207"
+                },
+                {
+                    "fecha": "2021-01-26",
+                    "tipoCuenta": "SFI",
+                    "entidad": "REFINANCIA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900060442",
+                    "sector": "3",
+                    "Llave": "10002122839210"
+                },
+                {
+                    "fecha": "2021-01-22",
+                    "tipoCuenta": "GRM",
+                    "entidad": "OXL COLOMBIA   SAS",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901088710",
+                    "sector": "3",
+                    "Llave": "10002122839208"
+                },
+                {
+                    "fecha": "2021-01-21",
+                    "tipoCuenta": "TDC",
+                    "entidad": "DATACREDITO",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00900422614",
+                    "sector": "3",
+                    "Llave": "10002122839205"
+                },
+                {
+                    "fecha": "2020-12-23",
+                    "tipoCuenta": "CVE",
+                    "entidad": "COCOVIK",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901361723",
+                    "sector": "3",
+                    "Llave": "10002122839204"
+                },
+                {
+                    "fecha": "2020-12-17",
+                    "tipoCuenta": "SFI",
+                    "entidad": "MAMUT SOLUCION ES",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901380656",
+                    "sector": "3",
+                    "Llave": "10002122839203"
+                },
+                {
+                    "fecha": "2020-11-21",
+                    "tipoCuenta": "SFI",
+                    "entidad": "MAMUT SOLUCION ES",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901380656",
+                    "sector": "3",
+                    "Llave": "10002122839202"
+                },
+                {
+                    "fecha": "2020-10-07",
+                    "tipoCuenta": "SFI",
+                    "entidad": "CONSTROYA",
+                    "oficina": "------------------",
+                    "ciudad": "------------",
+                    "razon": "00",
+                    "cantidad": "01",
+                    "nitSuscriptor": "00901366456",
+                    "sector": "3",
+                    "Llave": "10002122839201"
+                }
+            ],
+            "Alerta": {
+                "colocacion": "2021-05-15",
+                "vencimiento": "2021-05-15",
+                "modificacion": "2021-05-15",
+                "codigo": "004",
+                "texto": "El cliente tiene actividad registrada como titular con establecimiento de comercio",
+                "Fuente": {
+                    "codigo": "000001",
+                    "nombre": "Datacredito"
+                },
+                "Llave": "100021228443000001000J001"
+            },
+            "InfoAgregada": {
+                "Resumen": {
+                    "Principales": {
+                        "creditoVigentes": "0",
+                        "creditosCerrados": "3",
+                        "creditosActualesNegativos": "0",
+                        "histNegUlt12Meses": "0",
+                        "cuentasAbiertasAHOCCB": "2",
+                        "cuentasCerradasAHOCCB": "2",
+                        "consultadasUlt6meses": "67",
+                        "desacuerdosALaFecha": "0",
+                        "antiguedadDesde": "1993-03-31",
+                        "reclamosVigentes": "0"
+                    },
+                    "Saldos": {
+                        "saldoTotalEnMora": "0.0",
+                        "saldoM30": "0.0",
+                        "saldoM60": "0.0",
+                        "saldoM90": "0.0",
+                        "cuotaMensual": "0.0",
+                        "saldoCreditoMasAlto": "0.0",
+                        "saldoTotal": "0.0",
+                        "Sector": [
+                            {
+                                "sector": "1",
+                                "saldo": "0.0",
+                                "participacion": "0.0"
+                            },
+                            {
+                                "sector": "2",
+                                "saldo": "0.0",
+                                "participacion": "0.0"
+                            },
+                            {
+                                "sector": "3",
+                                "saldo": "0.0",
+                                "participacion": "0.0"
+                            },
+                            {
+                                "sector": "4",
+                                "saldo": "0.0",
+                                "participacion": "0.0"
+                            }
+                        ],
+                        "Mes": [
+                            {
+                                "fecha": "2013-12-31",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-11-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-10-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-09-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-08-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-07-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-06-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-05-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-04-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-03-30",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-02-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2013-01-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-12-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-11-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-10-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-09-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-08-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-07-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-06-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-05-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-04-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-03-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-02-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            },
+                            {
+                                "fecha": "2012-01-28",
+                                "saldoTotalMora": "0",
+                                "saldoTotal": "0"
+                            }
+                        ]
+                    },
+                    "Comportamiento": {
+                        "Mes": [
+                            {
+                                "fecha": "2013-12-31",
+                                "comportamiento": "N",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-11-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-10-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-09-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-08-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-07-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-06-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-05-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-04-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-03-30",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-02-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2013-01-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-12-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-11-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-10-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-09-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-08-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-07-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-06-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-05-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-04-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-03-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-02-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            },
+                            {
+                                "fecha": "2012-01-28",
+                                "comportamiento": "-",
+                                "cantidad": "0"
+                            }
+                        ]
+                    }
+                },
+                "Totales": null,
+                "ComposicionPortafolio": {
+                    "TipoCuenta": [
+                        {
+                            "tipo": "AHO",
+                            "calidadDeudor": "Principal",
+                            "porcentaje": "1.0",
+                            "cantidad": "1",
+                            "Estado": {
+                                "codigo": "Activa",
+                                "cantidad": "1"
+                            }
+                        },
+                        {
+                            "tipo": "CCB",
+                            "calidadDeudor": "Principal",
+                            "porcentaje": "1.0",
+                            "cantidad": "1",
+                            "Estado": {
+                                "codigo": "Activa",
+                                "cantidad": "1"
+                            }
+                        }
+                    ]
+                },
+                "Cheques": null,
+                "EvolucionDeuda": {
+                    "Trimestre": [
+                        {
+                            "fecha": "2013-12-01",
+                            "cuota": "0",
+                            "cupoTotal": "0",
+                            "saldo": "0",
+                            "porcentajeUso": "0.0",
+                            "score": "0.0",
+                            "calificacion": "-",
+                            "aperturaCuentas": "0",
+                            "cierreCuentas": "3",
+                            "totalAbiertas": "2",
+                            "totalCerradas": "4",
+                            "moraMaxima": "M 0",
+                            "mesesMoraMaxima": "0"
+                        },
+                        {
+                            "fecha": "2013-09-01",
+                            "cuota": "0",
+                            "cupoTotal": "0",
+                            "saldo": "0",
+                            "porcentajeUso": "0.0",
+                            "score": "0.0",
+                            "calificacion": "-",
+                            "aperturaCuentas": "0",
+                            "cierreCuentas": "0",
+                            "totalAbiertas": "5",
+                            "totalCerradas": "1",
+                            "moraMaxima": "M 0",
+                            "mesesMoraMaxima": "0"
+                        },
+                        {
+                            "fecha": "2013-06-01",
+                            "cuota": "0",
+                            "cupoTotal": "0",
+                            "saldo": "0",
+                            "porcentajeUso": "0.0",
+                            "score": "0.0",
+                            "calificacion": "-",
+                            "aperturaCuentas": "0",
+                            "cierreCuentas": "0",
+                            "totalAbiertas": "5",
+                            "totalCerradas": "1",
+                            "moraMaxima": "M 0",
+                            "mesesMoraMaxima": "0"
+                        }
+                    ],
+                    "AnalisisPromedio": {
+                        "cuota": "0.0",
+                        "cupoTotal": "0.0",
+                        "saldo": "0.0",
+                        "porcentajeUso": "0.0",
+                        "score": "0.0",
+                        "calificacion": "0",
+                        "aperturaCuentas": "0.0",
+                        "cierreCuentas": "0.0",
+                        "totalAbiertas": "-60.0",
+                        "totalCerradas": "300.0",
+                        "moraMaxima": "0"
+                    }
+                },
+                "HistoricoSaldos": null,
+                "ResumenEndeudamiento": null
+            },
+            "InfoAgregadaMicrocredito": {
+                "Resumen": {
+                    "PerfilGeneral": {
+                        "CreditosVigentes": {
+                            "sectorFinanciero": "0",
+                            "sectorCooperativo": "0",
+                            "sectorReal": "0",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "0",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "CreditosCerrados": {
+                            "sectorFinanciero": "0",
+                            "sectorCooperativo": "0",
+                            "sectorReal": "3",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "3",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "CreditosReestructurados": {
+                            "sectorFinanciero": "0",
+                            "sectorCooperativo": "0",
+                            "sectorReal": "0",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "0",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "CreditosRefinanciados": {
+                            "sectorFinanciero": "0",
+                            "sectorCooperativo": "0",
+                            "sectorReal": "0",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "0",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "ConsultaUlt6Meses": {
+                            "sectorFinanciero": "7",
+                            "sectorCooperativo": "2",
+                            "sectorReal": "59",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "0",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "Desacuerdos": {
+                            "sectorFinanciero": "0",
+                            "sectorCooperativo": "0",
+                            "sectorReal": "0",
+                            "sectorTelcos": "0",
+                            "totalComoPrincipal": "0",
+                            "totalComoCodeudorYOtros": "0"
+                        },
+                        "AntiguedadDesde": {
+                            "sectorFinanciero": "1993-03-31",
+                            "sectorReal": "2013-08-31"
+                        }
+                    },
+                    "VectorSaldosYMoras": {
+                        "poseeSectorCooperativo": "false",
+                        "poseeSectorFinanciero": "false",
+                        "poseeSectorReal": "false",
+                        "poseeSectorTelcos": "false"
+                    },
+                    "EndeudamientoActual": null,
+                    "ImagenTendenciaEndeudamiento": null
+                },
+                "EvolucionDeuda": {
+                    "Trimestres": null
+                }
+            }
+        }
+    }
+}

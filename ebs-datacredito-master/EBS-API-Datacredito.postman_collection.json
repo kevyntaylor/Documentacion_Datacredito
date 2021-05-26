@@ -1,0 +1,375 @@
+{
+	"info": {
+		"_postman_id": "cc3d9b94-22dd-487e-b759-452f136750ca",
+		"name": "EBS API Datacredito",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get credit history from python",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8091/datacredito/api/v1/hdc?identificacion=21228392&primerApellido=PORRAS&tipoIdentificacion=1&urlDatacredito=https://demo-servicesesb.datacredito.com.co:443/wss/dhws3/services/DHServicePlus?wsdl&usuarioOkta=2-891502277&claveOkta=oktaEBS1&usuario=891502277&claveCorta=58FPE",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8091",
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"hdc"
+					],
+					"query": [
+						{
+							"key": "identificacion",
+							"value": "21228392"
+						},
+						{
+							"key": "primerApellido",
+							"value": "PORRAS"
+						},
+						{
+							"key": "tipoIdentificacion",
+							"value": "1"
+						},
+						{
+							"key": "urlDatacredito",
+							"value": "https://demo-servicesesb.datacredito.com.co:443/wss/dhws3/services/DHServicePlus?wsdl"
+						},
+						{
+							"key": "usuarioOkta",
+							"value": "2-891502277"
+						},
+						{
+							"key": "claveOkta",
+							"value": "oktaEBS1"
+						},
+						{
+							"key": "usuario",
+							"value": "891502277"
+						},
+						{
+							"key": "claveCorta",
+							"value": "58FPE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ping",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/ping",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "email",
+							"value": "ebs@ebs.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "Ebs2021",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/auth",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"auth"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Crear usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTM5ODA4MywiZXhwIjoxNjIxMzk4MTQzfQ.vrK22C_uqD38hMaJxmOkpiP1B_VVosEz90xDHFMNTnpLTnr3FzoRhOblJTBNzoF3ctapmjSNNUW_Gl80Qki5iQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"miller@ebs.com\",\n    \"password\": \"Ebs2021\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/user",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar usuarios",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTM5ODA4MywiZXhwIjoxNjIxMzk4MTQzfQ.vrK22C_uqD38hMaJxmOkpiP1B_VVosEz90xDHFMNTnpLTnr3FzoRhOblJTBNzoF3ctapmjSNNUW_Gl80Qki5iQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/user",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTM5ODA4MywiZXhwIjoxNjIxMzk4MTQzfQ.vrK22C_uqD38hMaJxmOkpiP1B_VVosEz90xDHFMNTnpLTnr3FzoRhOblJTBNzoF3ctapmjSNNUW_Gl80Qki5iQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "password",
+							"value": "Abc123",
+							"type": "text"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/user/1",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"user",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTM5ODA4MywiZXhwIjoxNjIxMzk4MTQzfQ.vrK22C_uqD38hMaJxmOkpiP1B_VVosEz90xDHFMNTnpLTnr3FzoRhOblJTBNzoF3ctapmjSNNUW_Gl80Qki5iQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/user/1",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"user",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Datacredito info",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTQ5ODU1NywiZXhwIjoxNjIxNDk4NjE3fQ.a1IbgReS6RgVXGGstXJ3O5j_KRszb5AsuttW7V-zQmf52WENQBuAAgtjxNrV9U7FZO22kshqzylY8u96yWy-RQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/info?identification=21228392&primerApellido=PORRAS&tipoIdentificacion=1",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"info"
+					],
+					"query": [
+						{
+							"key": "identification",
+							"value": "21228392"
+						},
+						{
+							"key": "primerApellido",
+							"value": "PORRAS"
+						},
+						{
+							"key": "tipoIdentificacion",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar logs",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYnNkYXRhY3JlZGl0byIsInN1YiI6ImVic0BlYnMuY29tIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTYyMTQ5ODYyMCwiZXhwIjoxNjIxNDk4NjgwfQ.Zz4YQWEHzzkI-Xd7kWLUx8w71x3TZ4Yx9S6vyBwEAMQrQivjySlNApQvqqHqiugr3-50QZX7VVEw0XMgmbaLjA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/datacredito/api/v1/log/page/0",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"datacredito",
+						"api",
+						"v1",
+						"log",
+						"page",
+						"0"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
